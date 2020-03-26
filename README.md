@@ -1,1 +1,3 @@
-# My Usercentric Mini Project
+# My User centric Fronted Mini Project
+
+Resume Project
